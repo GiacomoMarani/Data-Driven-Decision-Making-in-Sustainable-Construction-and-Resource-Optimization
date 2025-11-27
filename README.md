@@ -43,12 +43,16 @@ The official **Inventory of Carbon & Energy (ICE) V3.0** dataset from the Univer
 
 ### 2. Curated Literature - `literature/`
 
-A collection of approximately **25 publications** on BIM, LCA, and data-driven optimization, organized by theme:
+A collection of approximately **25 publications** on BIM, LCA, and data-driven optimization, now grouped into themed subfolders for faster navigation:
 
-- **BIM–LCA Synthesis:** Comparative reviews of BIM-based LCA workflows and integration strategies.
-- **Methodological Guidance:** Standard documents (e.g., EN 15978, ILCD handbooks) on emission methodologies and circular footprint.
-- **Benchmarks & Databases:** Environmental benchmark datasets and construction material LCA databases.
-- **ML & Analytics:** Research on applying ML algorithms for lifecycle energy and carbon prediction in buildings.
+| Folder | Focus |
+| :--- | :--- |
+| `literature/BIM_LCA_Synthesis/` | Reviews and case studies on BIM-enabled LCA workflows. |
+| `literature/Methodological_Guidance/` | Standards, handbooks, and methodological playbooks (EN 15978, ILCD, CFF, etc.). |
+| `literature/Benchmarks_Databases/` | Environmental benchmark datasets and construction-material database overviews. |
+| `literature/ML_Analytics/` | Machine learning, regression, and analytics approaches to lifecycle energy/carbon prediction. |
+
+Use these subdirectories as drop zones for future references to keep the knowledge base consistent.
 
 -----
 
