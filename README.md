@@ -80,3 +80,4 @@ If you are interested in contributing or expanding the project, priority develop
 1. **Data Pre-processing:** Exporting ICE tables to **CSV** format to facilitate validation and usage within ML notebooks.
 2. **Data Enrichment:** Extracting *abstracts* and *key insights* for each document in the `literature/` folder to accelerate researcher onboarding.
 3. **Initial ML Models:** Developing a *Proof of Concept* (PoC) based on ICE data to predict Global Warming Potential (GWP) based on material composition.
+4. **NotebookLM Research Log:** Supplement repository work with the shared NotebookLM space (`https://notebooklm.google.com/notebook/f65fb5f6-5cd8-471a-b5a5-94136997f553`), so experiments, prompts, and summaries remain discoverable alongside the codebase.
