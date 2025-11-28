@@ -56,23 +56,6 @@ Use these subdirectories as drop zones for future references to keep the knowled
 
 -----
 
-## 💻 Getting Started
-
-To clone the repository and begin your analysis:
-
-```bash
-# Change directory to your working folder
-cd "C:\Users\R&D\Desktop\01_ML_LCA-Support"
-
-# Clone the repository
-git clone https://github.com/GiacomoMarani/Data-Driven-Decision-Making-in-Sustainable-Construction-and-Resource-Optimization.git
-
-# Navigate into the project directory
-cd Data-Driven-Decision-Making-in-Sustainable-Construction-and-Resource-Optimization
-```
-
------
-
 ## 🎯 Next Steps & Contribution
 
 If you are interested in contributing or expanding the project, priority development areas include:
